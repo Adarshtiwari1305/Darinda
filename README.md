@@ -16,7 +16,7 @@ This is the one and only official W2HBot Userbot made by @David99q. Don't forget
 
 <h3> DEPLOY TO HEROKU </h3>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Adarshtiwari1305/amit009"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-grey?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Adarshtiwari1305/chiku"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-grey?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 </a>
 
 <h3> StringSession </h3>
@@ -32,7 +32,7 @@ This is the one and only official W2HBot Userbot made by @David99q. Don't forget
 
 <h1 align="center">TO HOST 𝕎𝟚ℍ𝔹𝕠𝕥 LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
 
-<h2 align="center"> <a href="https://github.com/Adarshtiwari1305/amit009">⚡ 𝕎 𝟚 ℍ 𝕌 𝕊 𝔼 ℝ 𝔹 𝕆 𝕋  ⚡</a></h2>
+<h2 align="center"> <a href="https://github.com/Adarshtiwari1305/chiku">⚡ 𝕎 𝟚 ℍ 𝕌 𝕊 𝔼 ℝ 𝔹 𝕆 𝕋  ⚡</a></h2>
 
 ## Mandatory Vars
 
